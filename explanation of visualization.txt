@@ -1,0 +1,26 @@
+Visualization 1: Math Score Distribution by Parental Education Level
+Explanation: 
+This boxplot displays the distribution of math scores (e.g., median, quartiles, and outliers) for each parental education level. It helps to easily identify whether parental education level influences math performance. By comparing the distributions, we can observe whether higher parental education is generally associated with better math scores, or vice versa. For instance, it appears that children of parents with a master's degree tend to perform better in math. Additionally, the boxplot can highlight outliers, suggesting that other factors may also influence math performance.
+
+
+Visualization 2: Count of Test Preparation Course Completion by Gender
+Explanation: 
+This plot displays the count of students who either completed or did not complete the test preparation course, with the data categorized by gender. By visually presenting this comparison, the plot allows us to easily assess participation trends in the test preparation course, and whether there are any notable gender-based differences in course completion.
+
+
+Visualization 3: Scatter Plot of Math vs. Reading Scores, Colored by Gender
+Explanation: 
+This visualization displays the relationship between math scores and reading scores, with an additional layer of information provided by color coding based on gender. It provides a clear, visual representation of how math and reading scores correlate with each other overall, while also allowing us to observe potential differences between genders. Without the color coding, we would need to rely on more complex statistical techniques to understand how gender influences this relationship. The color coding acts as a quick visual filter that immediately highlights any potential patterns or variations between male and female students.
+
+
+Visualization 4: Impact of Test Preparation on Writing Scores
+Explanation: 
+This visualization shows the distribution of writing scores based on whether or not students completed a test preparation course. By separating the data into these two groups, it allows for an immediate comparison of how the completion of the course impacts writing performance.
+For instance, we can observe that the median writing score for students who completed the test preparation course is higher than for those who did not. This difference suggests that completing the test preparation course may have a positive effect on students' writing scores. The visualization also reveals other aspects of the distribution, such as the range, quartiles, and potential outliers, which help us better understand the spread and variability of writing scores within each group. 
+
+
+Visualization 5: Math Scores by Parental Education Level and Test Preparation Course
+Explanation: 
+This visualization provides a clear comparison of math scores between students who completed a test preparation course and those who did not, with the data further broken down by parental education level. By presenting the math scores in relation to both the test preparation course completion and parental education level, this plot allows for a more detailed understanding of how these factors may interact. Without this visualisation, this type of analysis would be more time-consuming and complex, therefore this is a valuable tool for gaining initial insights into these relationships.
+
+
